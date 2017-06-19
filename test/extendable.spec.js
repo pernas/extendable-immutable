@@ -1,6 +1,6 @@
 import expect from 'expect'
 import { Map } from '../src/index'
-import { Map as ImmutableMap } from 'immutable'
+import { Map as ImmutableMap } from 'immutable-ext'
 import extendable from '../src/extendable'
 
 describe('extendable(Map)', () => {

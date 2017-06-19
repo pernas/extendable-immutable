@@ -42,6 +42,7 @@
     "data"
   ],
   "dependencies": {
+    "immutable-ext": "^1.1.0",
     "invariant": "^2.2.1"
   },
   "devDependencies": {
@@ -58,14 +59,11 @@
     "eslint-plugin-react": "^7.0.1",
     "expect": "^1.20.2",
     "glob": "^7.1.0",
-    "immutable": "4.0.0-rc.2",
     "mocha": "^3.1.0",
     "nyc": "^10.0.0",
     "pretty-time": "^0.2.0"
   },
-  "peerDependencies": {
-    "immutable": ">= 3.8.1"
-  },
+  "peerDependencies": {},
   "engines": {
     "node": ">= 0.12.0"
   }

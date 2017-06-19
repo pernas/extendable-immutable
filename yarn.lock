@@ -1573,9 +1573,9 @@ ignore@^3.2.0:
   version "3.2.7"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.2.7.tgz#4810ca5f1d8eca5595213a34b94f2eb4ed926bbd"
 
-immutable@4.0.0-rc.2:
-  version "4.0.0-rc.2"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0-rc.2.tgz#fdd0948aae728fda2306a02f72bb73e1773432d1"
+immutable-ext@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/immutable-ext/-/immutable-ext-1.1.0.tgz#ea5a785c9d110aa110db0266a240d87305fa860d"
 
 imurmurhash@^0.1.4:
   version "0.1.4"
